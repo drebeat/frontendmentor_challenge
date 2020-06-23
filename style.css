@@ -8,6 +8,7 @@
     box-sizing: border-box;
 }
 body{
+    background-image: url("images/bg-pattern-desktop.svg");
     font-family: sans-serif;
     color: lightpink;
 }
